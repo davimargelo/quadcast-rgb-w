@@ -1,0 +1,1 @@
+sudo quadcastrgb -u -b 100 solid -l lightning f20000
